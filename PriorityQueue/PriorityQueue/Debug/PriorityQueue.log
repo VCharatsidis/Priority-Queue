@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\vcharatsidis\documents\visual studio 2017\projects\priorityqueue\priorityqueue\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\priorityqueue\priorityqueue\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\priorityqueue\priorityqueue\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\priorityqueue\priorityqueue\main.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\priorityqueue\priorityqueue\main.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\priorityqueue\priorityqueue\main.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PriorityQueue.vcxproj -> c:\users\vcharatsidis\documents\visual studio 2017\Projects\PriorityQueue\Debug\PriorityQueue.exe
+  PriorityQueue.vcxproj -> c:\users\vcharatsidis\documents\visual studio 2017\Projects\PriorityQueue\Debug\PriorityQueue.pdb (Partial PDB)
